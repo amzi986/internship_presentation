@@ -1,7 +1,0 @@
-[theme]
-primaryColor = "#000000ff"
-backgroundColor = "#f58020ff"
-secondaryBackgroundColor = "#ffffffff"
-textColor = "#ffffffff"
-font = "sans serif"
-headingFontSizes = ['6.5rem']
